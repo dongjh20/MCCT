@@ -1,6 +1,6 @@
 # SICity 
 
-In this project, we present several experiments done with SICity to demonstrate its capabilities.
+In this project, we present several experiments done with SICity to demonstrate its capabilities. 
 
 ## Mixing physical vehicles and cloud vehicles
 Leading Cruise Control is a general control framework for connected and autonomous vehicles (CAVs) in mixed traffic flow, where human-driven vehicles (HDVs) also exist. A schematic diagram is shown below.
