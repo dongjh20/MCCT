@@ -9,6 +9,7 @@ The blue arrows represent the communication topology of the CAV, while the purpl
 
 Two special cases of LCC are **Car-Driving LCC (CF-LCC)** and **Free-Driving LCC (FD-LCC)**.
 <img src="Resources/experiment1.gif" align="center" width="100%"/>
+<img src="Resources/experiment2.gif" align="center" width="150%"/>
 <img src="docs/img/CFLCC.gif" align="center" width="49.5%"/>
 <img src="docs/img/FDLCC.gif" align="center" width="49.5%"/>
 (Demo scenario: there are ten HDVs following the CAV, which only responds to the motion of the two HDVs directly behind)
