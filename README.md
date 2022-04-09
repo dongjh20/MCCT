@@ -2,6 +2,8 @@
 
 In this project, we present several experiments done with SICity to demonstrate its capabilities. 
 
+# Platoon experiment with mixed types of vehicles
+
 ## Mixing physical vehicles and cloud vehicles
 
 ### The formation of the platoon for experiment 1 is shown below.
@@ -22,10 +24,13 @@ In this project, we present several experiments done with SICity to demonstrate 
 
 <img src="Resources/experiment2.gif" align="center" width="150%"/>
 
+# Multi-vehicle coordinated formation control
+
+The video can be found on [link](https://github.com/cmc623/Formation-control-experiments).
+
 ## Publications
 1. Yang C, Dong J, Xu Q, et al. Multi-vehicle experiment platform: A Digital Twin Realization Method[C]//2022 IEEE/SICE International Symposium on System Integration (SII). IEEE, 2022: 705-711. [link](https://www.researchgate.net/publication/359072029_Multi-vehicle_experiment_platform_A_Digital_Twin_Realization_Method)
-
-See [here](https://wangjw18.github.io/files/2020-CDC-slides.pdf) for presentation slides.
+2. [link](https://www.researchgate.net/publication/356711150_Experimental_Validation_of_Multi-lane_Formation_Control_for_Connected_and_Automated_Vehicles_in_Multiple_Scenarios)
 
 ## Contacts
-Relavent project: [mixed-traffic](https://github.com/wangjw18/MCMT) (modeling and control of mixed traffic flow).
+Follow my updates on Researchgate: https://www.researchgate.net/profile/Jianghong-Dong
