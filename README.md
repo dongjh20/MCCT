@@ -3,17 +3,20 @@
 In this project, we present several experiments done with SICity to demonstrate its capabilities. 
 
 ## Mixing physical vehicles and cloud vehicles
-Leading Cruise Control is a general control framework for connected and autonomous vehicles (CAVs) in mixed traffic flow, where human-driven vehicles (HDVs) also exist. A schematic diagram is shown below.
-<img src="docs/img/LCC.png" align="center" width="100%"/>
-The blue arrows represent the communication topology of the CAV, while the purple arrows illustrate the interaction direction in HDVs' dynamics. The blue vehicles, gray vehicles and yellow vehicles represent CAVs, HDVs and the head vehicle, respectively.
+#The formation of the platoon for experiment 1 is shown below.
 
-Two special cases of LCC are **Car-Driving LCC (CF-LCC)** and **Free-Driving LCC (FD-LCC)**.
+<img src="Resources/formation-experiment1.png" align="center" width="49.5%"/>
+#The video of the experiment process is shown below.
 <img src="Resources/experiment1.gif" align="center" width="100%"/>
+
 ## Mixing physical vehicles, cloud vehicles and driving simulator
+#The formation of the platoon for experiment 2 is shown below.
+
+<img src="Resources/formation-experiment2.png" align="center" width="49.5%"/>
+#The video of the experiment process is shown below.
 
 <img src="Resources/experiment2.gif" align="center" width="150%"/>
-<img src="docs/img/CFLCC.gif" align="center" width="49.5%"/>
-<img src="docs/img/FDLCC.gif" align="center" width="49.5%"/>
+
 (Demo scenario: there are ten HDVs following the CAV, which only responds to the motion of the two HDVs directly behind)
 
 ## Mixing physical vehicles, cloud vehicles and ego vehicle in driving simulator
