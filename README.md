@@ -22,17 +22,8 @@ In this project, we present several experiments done with SICity to demonstrate 
 
 <img src="Resources/experiment2.gif" align="center" width="150%"/>
 
-(Demo scenario: there are ten HDVs following the CAV, which only responds to the motion of the two HDVs directly behind)
-
-The CAV maintains car-following operations, adapting to the states of its preceding vehicles, and it also aims to **lead the motion of its following vehicles**. Specifically, by controlling of the CAV, LCC aims for both of the following two objectives:
-
-1. **attenuate downstream traffic perturbations**;
-2. **smooth upstream traffic flow**.
-
 ## Publications
-1. Wang, J., Zheng, Y., Chen, C., Xu, Q., & Li, K. (2020). Leading Cruise Control in Mixed Traffic Flow: System Modeling, Controllability, and String Stability. arXiv preprint arXiv:2012.04313. [link](https://arxiv.org/abs/2012.04313)
-2. Wang, J., Zheng, Y., Chen, C., Xu, Q., & Li, K. (2020). Leading cruise control in mixed traffic flow. 59th IEEE Conference on Decision and Control, 2020. [link](https://arxiv.org/abs/2007.11753)
-
+1. Yang C, Dong J, Xu Q, et al. Multi-vehicle experiment platform: A Digital Twin Realization Method[C]//2022 IEEE/SICE International Symposium on System Integration (SII). IEEE, 2022: 705-711. [link](https://www.researchgate.net/publication/359072029_Multi-vehicle_experiment_platform_A_Digital_Twin_Realization_Method)
 
 See [here](https://wangjw18.github.io/files/2020-CDC-slides.pdf) for presentation slides.
 
