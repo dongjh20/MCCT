@@ -3,16 +3,21 @@
 In this project, we present several experiments done with SICity to demonstrate its capabilities. 
 
 ## Mixing physical vehicles and cloud vehicles
+
 ### The formation of the platoon for experiment 1 is shown below.
 
 <img src="Resources/formation-experiment1.png" align="center" width="49.5%"/>
+
 ### The video of the experiment process is shown below.
+
 <img src="Resources/experiment1.gif" align="center" width="100%"/>
 
 ## Mixing physical vehicles, cloud vehicles and the driving simulator
+
 ### The formation of the platoon for experiment 2 is shown below.
 
 <img src="Resources/formation-experiment2.png" align="center" width="49.5%"/>
+
 ### The video of the experiment process is shown below.
 
 <img src="Resources/experiment2.gif" align="center" width="150%"/>
