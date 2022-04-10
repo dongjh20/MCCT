@@ -26,7 +26,7 @@ In this project, we present several experiments done with SICity to demonstrate 
 
 # Multi-vehicle coordinated formation control
 
-The video can be found on another [GitHub repository](https://github.com/cmc623/Formation-control-experiments).
+The video can be found on another [``GitHub repository``](https://github.com/cmc623/Formation-control-experiments).
 
 ## Publications
 1. Yang C, Dong J, Xu Q, et al. Multi-vehicle experiment platform: A Digital Twin Realization Method[C]//2022 IEEE/SICE International Symposium on System Integration (SII). IEEE, 2022: 705-711. [paper link](https://www.researchgate.net/publication/359072029_Multi-vehicle_experiment_platform_A_Digital_Twin_Realization_Method)
@@ -40,5 +40,13 @@ Follow my updates on [Researchgate](https://www.researchgate.net/profile/Jiangho
 If you refer to SICity in your research, please cite the [paper](https://www.researchgate.net/publication/359072029_Multi-vehicle_experiment_platform_A_Digital_Twin_Realization_Method). In BibTeX format:
 
 ```bibtex
-@INPROCEEDINGS{yang2021multi,  author={Yang, Chunying and Dong, Jianghong and Xu, Qing and Cai, Mengchi and Qin, Hongmao and Wang, Jianqiang and Li, Keqiang},  booktitle={2022 IEEE/SICE International Symposium on System Integration (SII)},   title={Multi-vehicle experiment platform: A Digital Twin Realization Method},   year={2022},  volume={},  number={},  pages={705-711},  doi={10.1109/SII52469.2022.9708890}}
+@INPROCEEDINGS{yang2021multi, 
+author={Yang, Chunying and Dong, Jianghong and Xu, Qing and Cai, Mengchi and Qin, Hongmao and Wang, Jianqiang and Li, Keqiang},  
+booktitle={2022 IEEE/SICE International Symposium on System Integration (SII)},  
+title={Multi-vehicle experiment platform: A Digital Twin Realization Method},   
+year={2022},  
+volume={},  
+number={},  
+pages={705-711},  
+doi={10.1109/SII52469.2022.9708890}}
 ```
