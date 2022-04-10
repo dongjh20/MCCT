@@ -34,3 +34,11 @@ The video can be found on another [GitHub repository](https://github.com/cmc623/
 
 ## Contacts
 Follow my updates on [Researchgate](https://www.researchgate.net/profile/Jianghong-Dong).
+
+## Citing SICity
+
+If you refer to SICity in your research, please cite the [paper](https://www.researchgate.net/publication/359072029_Multi-vehicle_experiment_platform_A_Digital_Twin_Realization_Method). In BibTeX format:
+
+```bibtex
+@INPROCEEDINGS{yang2021multi,  author={Yang, Chunying and Dong, Jianghong and Xu, Qing and Cai, Mengchi and Qin, Hongmao and Wang, Jianqiang and Li, Keqiang},  booktitle={2022 IEEE/SICE International Symposium on System Integration (SII)},   title={Multi-vehicle experiment platform: A Digital Twin Realization Method},   year={2022},  volume={},  number={},  pages={705-711},  doi={10.1109/SII52469.2022.9708890}}
+```
