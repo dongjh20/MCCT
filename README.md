@@ -58,7 +58,7 @@ In this project, we present several experiments done with SICity to demonstrate 
 
 # Multi-vehicle coordinated formation control
 
-The video can be found on another [![](https://img.shields.io/badge/GitHub-Formation_control-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cmc623/Formation-control-experiments).
+The video can be found on [![](https://img.shields.io/badge/GitHub-Formation_control-green?style=logo=github&logoColor=white)](https://github.com/cmc623/Formation-control-experiments).
 
 # Data-EnablEd Predictive Leading Cruise Control (DeeP-LCC)
 
