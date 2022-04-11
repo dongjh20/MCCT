@@ -1,6 +1,9 @@
 
 [![tsinghua-svm-thicv](https://img.shields.io/badge/Tsinghua-THICV-brightgreen)](https://www.labxing.com/thicv)
-[//]: # (This may be the most platform independent comment)
+<!---
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tyistyler&" alt="tyistyler" /></p>
+-->
+
 <a><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
 
