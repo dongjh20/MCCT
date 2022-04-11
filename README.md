@@ -19,7 +19,7 @@
 <a><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
-![HoloLens](https://img.shields.io/badge/MATLAB-R2021B-258ffa?style=for-the-badge&logo=matlab&logoColor=white)
+![matlab](https://img.shields.io/badge/MATLAB-258ffa?style=for-the-badge&logo=matlab&logoColor=white)
 
 <!--用到的软件-->
 ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
