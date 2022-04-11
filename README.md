@@ -7,11 +7,12 @@
 
 <!--硬件条件-->
 ![cloud-gpu](https://img.shields.io/badge/NVIDIA-RTX3090-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![unity-gpu](https://img.shields.io/badge/NVIDIA-RTX2080 SUPER-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![cloud-cpu](https://img.shields.io/badge/Intel-Xeon(R) Gold 5220R @2020GHz-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![unitycpu](https://img.shields.io/badge/Intel-CORE I7 10700K @3.80GHz-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![cloud-host](https://img.shields.io/badge/Windows-DELL precision 7920-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![unity-host](https://img.shields.io/badge/Windows-Lenovo ThinkStation P340-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![unity-gpu](https://img.shields.io/badge/NVIDIA-RTX2080_SUPER-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![cloud-cpu](https://img.shields.io/badge/Intel-Xeon(R)_Gold_5220R_@2020GHz-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![unitycpu](https://img.shields.io/badge/Intel-CORE_I7_10700K_@3.80GHz-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![cloud-host](https://img.shields.io/badge/Windows-DELL_Precision_7920-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![unity-host](https://img.shields.io/badge/Windows-Lenovo_ThinkStation_P340-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![HoloLens](https://img.shields.io/badge/Microsoft-HoloLens-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)
 
 <!--用到的语言-->
 <a><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
