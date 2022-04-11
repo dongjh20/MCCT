@@ -10,7 +10,7 @@
 ![unity-gpu](https://img.shields.io/badge/NVIDIA-RTX2080_SUPER-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![cloud-cpu](https://img.shields.io/badge/Intel-Xeon(R)_Gold_5220R_@2.20GHz-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![unitycpu](https://img.shields.io/badge/Intel-CORE_I7_10700K_@3.80GHz-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![cloud-host](https://img.shields.io/badge/Windows-DELL_Precision_7920-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![cloud-host](https://img.shields.io/badge/Ubuntu-DELL_Precision_7920-0078D6?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![unity-host](https://img.shields.io/badge/Windows-Lenovo_ThinkStation_P340-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![HoloLens](https://img.shields.io/badge/Microsoft-HoloLens-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)
 
@@ -27,6 +27,7 @@
 ![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+![](https://img.shields.io/badge/SCANeR_Studio-FA7343?style=for-the-badge&logo=scaner&logoColor=white)
 
 
 # SICity 
