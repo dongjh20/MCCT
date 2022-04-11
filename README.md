@@ -1,5 +1,5 @@
 
-[![tsinghua-svm-thicv](https://img.shields.io/badge/Tsinghua-THICV-blueviolet)](https://www.labxing.com/thicv)
+[![tsinghua-svm-thicv](https://img.shields.io/badge/Tsinghua-THICV-brightgreen)](https://www.labxing.com/thicv)
 
 # SICity 
 
