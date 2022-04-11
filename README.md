@@ -54,3 +54,8 @@ number={},
 pages={705-711},  
 doi={10.1109/SII52469.2022.9708890}}
 ```
+
+ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bipinKrishnan/fastai_course/blob/master/bear_classifier.ipynb)     
+
+[![tsinghua-svm-thicv](https://img.shields.io/badge/tsinghua-thicv-brightgreen)](https://img.shields.io/badge/tsinghua-thicv-brightgreen)
+<a><img src="https://img.shields.io/badge/gem-123-brightgreen"></a>
