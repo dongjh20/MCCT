@@ -56,13 +56,15 @@ In this project, we present several experiments done with SICity to demonstrate 
 
 <img src="Resources/experiment2.gif" align="center" width="150%"/>
 
+More longer videos can be found on [![](https://img.shields.io/badge/YouTube-SICity-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://github.com/cmc623/Formation-control-experiments).
+
 # Multi-vehicle coordinated formation control
 
 The video can be found on [![](https://img.shields.io/badge/GitHub-Formation_control-green?style=logo=github&logoColor=white)](https://github.com/cmc623/Formation-control-experiments).
 
 # Data-EnablEd Predictive Leading Cruise Control (DeeP-LCC)
 
-The video can be found on another [``GitHub repository``](https://github.com/soc-ucsd/DeeP-LCC).
+The video can be found on [![](https://img.shields.io/badge/GitHub-DeeP_LCC-green?style=logo=github&logoColor=white)](https://github.com/soc-ucsd/DeeP-LCC).
 
 ## Publications
 1. Yang C, Dong J, Xu Q, et al. Multi-vehicle experiment platform: A Digital Twin Realization Method[C]//2022 IEEE/SICE International Symposium on System Integration (SII). IEEE, 2022: 705-711. [paper link](https://www.researchgate.net/publication/359072029_Multi-vehicle_experiment_platform_A_Digital_Twin_Realization_Method)
