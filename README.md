@@ -1,5 +1,5 @@
 <!--课题组网站链接-->
-[![tsinghua-svm-thicv](https://img.shields.io/badge/Tsinghua-THICV-brightgreen)](https://www.labxing.com/thicv)
+[![tsinghua-svm-thicv](https://img.shields.io/badge/Tsinghua_University-THICV-brightgreen)](https://www.labxing.com/thicv)
 
 <!---用到的系统-->
 <a><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
@@ -27,7 +27,7 @@
 ![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
-![](https://img.shields.io/badge/SCANeR_Studio-FA7343?style=for-the-badge&logo=scaner&logoColor=white)
+![](https://img.shields.io/badge/SCANeR_Studio-FA7343)
 
 
 # SICity 
