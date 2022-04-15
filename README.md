@@ -1,3 +1,4 @@
+[20220413与李老师交流-论文部分意见整理.txt](https://github.com/dongjh20/SICity/files/8493472/20220413.-.txt)
 <!--课题组网站链接-->
 [![tsinghua-svm-thicv](https://img.shields.io/badge/Tsinghua_University-THICV-brightgreen)](https://www.labxing.com/thicv)
 
