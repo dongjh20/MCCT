@@ -34,7 +34,7 @@
 
 In this project, we present several experiments done with SICity to demonstrate its capabilities. 
 The overall architecture of the platform is shown below.
-<img src="Resources/data-flow.pdf" align="center" width="49.5%"/>
+<img src="Resources/data-flow.png" align="center" width="49.5%"/>
 
 # Platoon experiment with mixed types of vehicles
 
