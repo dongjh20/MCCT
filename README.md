@@ -32,11 +32,15 @@
 
 # SICity 
 
-In this project, we present several experiments done with SICity to demonstrate its capabilities. 
+In this project, we present several experiments done with SICity to demonstrate its capabilities.
 
-The overall architecture of the platform is shown below.
+The system components and their connection relationships is shown below.
 
-<img src="Resources/data-flow.png" align="center" width="95%"/>
+<img src="Resources/component.png" align="center" width="95%"/>
+
+The data transmission relationships and methods between physical entities is shown below.
+
+<img src="Resources/architecture.png" align="center" width="95%"/>
 
 # Platoon experiment with mixed types of vehicles
 
