@@ -48,7 +48,7 @@ The data transmission relationships and methods between physical entities is sho
 
 ### The formation of the platoon for experiment 1 is shown below.
 
-<img src="Resources/formation-experiment1.png" align="center" width="49.5%"/>
+<img src="Resources/formation-experiment1.pdf" align="center" width="50%"/>
 
 ### The video of the experiment process is shown below.
 
@@ -58,7 +58,7 @@ The data transmission relationships and methods between physical entities is sho
 
 ### The formation of the platoon for experiment 2 is shown below.
 
-<img src="Resources/formation-experiment2.png" align="center" width="49.5%"/>
+<img src="Resources/formation-experiment2.pdf" align="center" width="50%"/>
 
 ### The video of the experiment process is shown below.
 
