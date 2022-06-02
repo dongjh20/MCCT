@@ -38,14 +38,17 @@ In this project, we present several experiments done with the Intelligent and Co
 The SICity is a implementation example of the Integrated Digital Twin (IDT), which is a further extension of the classic Digital Twin (DT) concept. 
 
 The schematic diagram of the classic DT is as follows.
+
 <img src="Resources/dt-architecture.png" align="center" width="95%"/>
 
 The schematic diagram of the proposed IDT is as follows.
+
 <img src="Resources/IDT-architecture.png" align="center" width="95%"/>
 
 ## The architecture of the SICity
 
 The architecture of the SICity is as follows, which has a good correspondence with the IDT architecture.
+
 <img src="Resources/SICity-framework.png" align="center" width="95%"/>
 
 
@@ -79,7 +82,7 @@ More longer videos can be found on [![](https://img.shields.io/badge/YouTube-SIC
 
 The video can be found on [![](https://img.shields.io/badge/GitHub-Formation_control-green?style=logo=github&logoColor=white)](https://github.com/cmc623/Formation-control-experiments).
 
-## Data-EnablEd Predictive Leading Cruise Control (DeeP-LCC)
+## Data-Enabled Predictive Leading Cruise Control (DeeP-LCC)
 
 The video can be found on [![](https://img.shields.io/badge/GitHub-DeeP_LCC-green?style=logo=github&logoColor=white)](https://github.com/soc-ucsd/DeeP-LCC).
 
