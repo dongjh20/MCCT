@@ -32,45 +32,54 @@
 
 # SICity 
 
-In this project, we present several experiments done with SICity to demonstrate its capabilities.
+In this project, we present several experiments done with the Intelligent and Connected Vehicles Lab's Scaled Intelligent City (THICV SICity) to demonstrate its capabilities.
 
-The system components and their connection relationships is shown below.
+## The notion of IDT
+The SICity is a implementation example of the Integrated Digital Twin (IDT), which is a further extension of the classic Digital Twin (DT) concept. 
 
-<img src="Resources/component.png" align="center" width="95%"/>
+The schematic diagram of the classic DT is as follows.
+<img src="Resources/dt-architecture.png" align="center" width="95%"/>
 
-The data transmission relationships and methods between physical entities is shown below.
+The schematic diagram of the proposed IDT is as follows.
+<img src="Resources/IDT-architecture.png" align="center" width="95%"/>
 
-<img src="Resources/architecture.png" align="center" width="95%"/>
+## The architecture of the SICity
 
-# Platoon experiment with mixed types of vehicles
+The architecture of the SICity is as follows, which has a good correspondence with the IDT architecture.
+<img src="Resources/SICity-framework.png" align="center" width="95%"/>
 
-## Mixing physical vehicles and cloud vehicles
 
-### The formation of the platoon for experiment 1 is shown below.
+## Platoon experiment with mixed types of vehicles
+
+### Mixing physical vehicles and virtual vehicles
+
+#### The formation of the platoon for experiment 1 is shown below.
 
 <img src="Resources/formation-experiment-1.png" align="center" width="50%"/>
 
-### The video of the experiment process is shown below.
+#### The video of the experiment process is shown below.
 
 <img src="Resources/experiment1.gif" align="center" width="100%"/>
 
-## Mixing physical vehicles, cloud vehicles and the driving simulator
+### Mixing physical vehicles, virtual vehicles and the driving simulator
 
-### The formation of the platoon for experiment 2 is shown below.
+#### The formation of the platoon for experiment 2 is shown below.
 
 <img src="Resources/formation-experiment-2.png" align="center" width="50%"/>
 
-### The video of the experiment process is shown below.
+#### The video of the experiment process is shown below.
 
 <img src="Resources/experiment2.gif" align="center" width="100%"/>
 
+<!--还没放上去，先不放
 More longer videos can be found on [![](https://img.shields.io/badge/YouTube-SICity-FF0000?style=logo=youtube&logoColor=white)](https://github.com/cmc623/Formation-control-experiments).
+-->
 
-# Multi-vehicle coordinated formation control
+## Multi-vehicle coordinated formation control
 
 The video can be found on [![](https://img.shields.io/badge/GitHub-Formation_control-green?style=logo=github&logoColor=white)](https://github.com/cmc623/Formation-control-experiments).
 
-# Data-EnablEd Predictive Leading Cruise Control (DeeP-LCC)
+## Data-EnablEd Predictive Leading Cruise Control (DeeP-LCC)
 
 The video can be found on [![](https://img.shields.io/badge/GitHub-DeeP_LCC-green?style=logo=github&logoColor=white)](https://github.com/soc-ucsd/DeeP-LCC).
 
