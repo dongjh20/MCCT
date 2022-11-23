@@ -30,31 +30,31 @@
 ![](https://img.shields.io/badge/SCANeR_Studio-FA7343?style=for-the-badge)
 
 
-# SICity 
+# MTwinCity
 
-In this project, we present several experiments done with the Intelligent and Connected Vehicles Lab's Scaled Intelligent City (THICV SICity) to demonstrate its capabilities.
+In this project, we present several experiments done with the Intelligent and Connected Vehicles Lab's Mixed Digital Twin City ( THICV MTwinCity) to demonstrate its capabilities and the effectiveness of the Mixed Digital Twin concept (mixedDT).
 
-## The notion of IDT
-The SICity is a implementation example of the Integrated Digital Twin (IDT), which is a further extension of the classic Digital Twin (DT) concept. 
+## The notion of mixedDT
+The MTwinCity is a implementation example of the mixedDT, which is a further extension of the classic Digital Twin (DT) concept. 
 
 The schematic diagram of the classic DT is as follows.
 
 <img src="Resources/dt-architecture.png" align="center" width="95%"/>
 
-The schematic diagram of the proposed IDT is as follows.
+The schematic diagram of the proposed mixedDT is as follows.
 
 <img src="Resources/IDT-architecture.png" align="center" width="95%"/>
 
 ## The architecture of the SICity
 
-The architecture of the SICity is as follows, which has a good correspondence with the IDT architecture.
+The architecture of the MTwinCity is as follows, which has a good correspondence with the mixedDT architecture.
 
 <img src="Resources/SICity-framework.png" align="center" width="95%"/>
 
 
 ## Platoon experiment with mixed types of vehicles
 
-### Mixing physical vehicles and virtual vehicles
+### Mixing physical miniature vehicles and virtual vehicles
 
 #### The formation of the platoon for experiment 1 is shown below.
 
@@ -64,7 +64,7 @@ The architecture of the SICity is as follows, which has a good correspondence wi
 
 <img src="Resources/experiment1.gif" align="center" width="100%"/>
 
-### Mixing physical vehicles, virtual vehicles and the driving simulator
+### Mixing physical miniature vehicles, virtual vehicles and the ego vehicle of a driving simulator
 
 #### The formation of the platoon for experiment 2 is shown below.
 
@@ -93,9 +93,9 @@ The video can be found on [![](https://img.shields.io/badge/GitHub-DeeP_LCC-gree
 ## Contacts
 Follow my updates on [Researchgate](https://www.researchgate.net/profile/Jianghong-Dong).
 
-## Citing SICity
+## Citing MTwinCity
 
-If you refer to SICity in your research, please cite the [paper](https://www.researchgate.net/publication/359072029_Multi-vehicle_experiment_platform_A_Digital_Twin_Realization_Method). In BibTeX format:
+If you refer to MTwinCity in your research, please cite the [paper](https://www.researchgate.net/publication/359072029_Multi-vehicle_experiment_platform_A_Digital_Twin_Realization_Method). In BibTeX format:
 
 ```bibtex
 @INPROCEEDINGS{yang2021multi, 
