@@ -35,7 +35,7 @@
 In this project, we present several experiments done with the Intelligent and Connected Vehicles Lab's Mixed Digital Twin City ( THICV MTwinCity) to demonstrate its capabilities and the effectiveness of the Mixed Digital Twin concept (mixedDT).
 
 ## The notion of mixedDT
-The MTwinCity is a implementation example of the mixedDT, which is a further extension of the classic Digital Twin (DT) concept. 
+The MTwinCity is an implementation example of the mixedDT, which is a further extension of the classic Digital Twin (DT) concept. 
 
 The schematic diagram of the classic DT is as follows.
 
