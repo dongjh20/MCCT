@@ -39,18 +39,25 @@ The MTwinCity is a implementation example of the mixedDT, which is a further ext
 
 The schematic diagram of the classic DT is as follows.
 
-<img src="Resources/dt-architecture.png" align="center" width="95%"/>
+<img src="Resources/dt-architecture2.pdf" align="center" width="95%"/>
 
 The schematic diagram of the proposed mixedDT is as follows.
 
-<img src="Resources/IDT-architecture.png" align="center" width="95%"/>
+<img src="Resources/mdt-architecture3.pdf" align="center" width="95%"/>
 
 ## The architecture of the SICity
 
 The architecture of the MTwinCity is as follows, which has a good correspondence with the mixedDT architecture.
 
-<img src="Resources/SICity-framework.png" align="center" width="95%"/>
+<img src="Resources/SICity-architecture8.pdf" align="center" width="95%"/>
 
+An corresponding overview of the MTwinCity is as follows.
+
+<img src="Resources/SICity-overview9.pdf" align="center" width="95%"/>
+
+The detailed physical architecture of the MTwinCity is as follows, which is not presented in paper due to space limitations.
+
+<img src="Resources/SICity-framework4.pdf" align="center" width="95%"/>
 
 ## Platoon experiment with mixed types of vehicles
 
