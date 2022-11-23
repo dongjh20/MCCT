@@ -39,25 +39,25 @@ The MTwinCity is a implementation example of the mixedDT, which is a further ext
 
 The schematic diagram of the classic DT is as follows.
 
-<img src="Resources/dt-architecture.png" align="center" width="95%"/>
+<img src="resources/dt-architecture.png" align="center" width="95%"/>
 
 The schematic diagram of the proposed mixedDT is as follows.
 
-<img src="Resources/mdt-architecture.png" align="center" width="95%"/>
+<img src="resources/mdt-architecture.png" align="center" width="95%"/>
 
 ## The architecture of the SICity
 
 The architecture of the MTwinCity is as follows, which has a good correspondence with the mixedDT architecture.
 
-<img src="Resources/SICity-architecture.png" align="center" width="95%"/>
+<img src="resources/SICity-architecture.png" align="center" width="95%"/>
 
 An corresponding overview of the MTwinCity is as follows.
 
-<img src="Resources/SICity-overview.png" align="center" width="95%"/>
+<img src="resources/SICity-overview.png" align="center" width="95%"/>
 
 The detailed physical architecture of the MTwinCity is as follows, which is not presented in paper due to space limitations.
 
-<img src="Resources/SICity-framework.png" align="center" width="95%"/>
+<img src="resources/SICity-framework.png" align="center" width="95%"/>
 
 ## Platoon experiment with mixed types of vehicles
 
@@ -65,21 +65,21 @@ The detailed physical architecture of the MTwinCity is as follows, which is not 
 
 #### The formation of the platoon for experiment 1 is shown below.
 
-<img src="Resources/formation-experiment-1.png" align="center" width="50%"/>
+<img src="resources/formation-experiment-1.png" align="center" width="50%"/>
 
 #### The video of the experiment process is shown below.
 
-<img src="Resources/experiment1.gif" align="center" width="100%"/>
+<img src="resources/experiment1.gif" align="center" width="100%"/>
 
 ### Mixing physical miniature vehicles, virtual vehicles and the ego vehicle of a driving simulator
 
 #### The formation of the platoon for experiment 2 is shown below.
 
-<img src="Resources/formation-experiment-2.png" align="center" width="50%"/>
+<img src="resources/formation-experiment-2.png" align="center" width="50%"/>
 
 #### The video of the experiment process is shown below.
 
-<img src="Resources/experiment2.gif" align="center" width="100%"/>
+<img src="resources/experiment2.gif" align="center" width="100%"/>
 
 <!--还没放上去，先不放
 More longer videos can be found on [![](https://img.shields.io/badge/YouTube-SICity-FF0000?style=logo=youtube&logoColor=white)](https://github.com/cmc623/Formation-control-experiments).
