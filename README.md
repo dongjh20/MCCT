@@ -49,37 +49,37 @@ The schematic diagram of the proposed mixedDT is as follows.
 
 The architecture of the MCCT is as follows, which has a good correspondence with the mixedDT architecture.
 
-<img src="resources/SICity-architecture.png" align="center" width="50%"/>
+<img src="resources/MCCT-architecture.jpg" align="center" width="50%"/>
 
 An corresponding overview of the MCCT is as follows.
 
-<img src="resources/SICity-overview.png" align="center" width="50%"/>
+<img src="resources/MCCT-overview.png" align="center" width="50%"/>
 
 The detailed physical architecture of the MCCT is as follows, which is not presented in paper due to space limitations.
 
-<img src="resources/SICity-framework.png" align="center" width="50%"/>
+<img src="resources/MCCT-framework.png" align="center" width="50%"/>
 
 ## Platoon experiment with mixed types of vehicles
 
 ### Mixing physical miniature vehicles and virtual vehicles
 
-#### The formation of the platoon for experiment 1 is shown below.
+#### The formation of the platoon for experiment A is shown below.
 
-<img src="resources/formation-experiment-1.png" align="center" width="50%"/>
+<img src="resources/formation-experiment-A.png" align="center" width="50%"/>
 
 #### The video of the experiment process is shown below.
 
-<img src="resources/experiment1.gif" align="center" width="100%"/>
+<img src="resources/experiment-A.gif" align="center" width="100%"/>
 
 ### Mixing physical miniature vehicles, virtual vehicles and a human-driven vehicle via a driving simulator
 
-#### The formation of the platoon for experiment 2 is shown below.
+#### The formation of the platoon for experiment B is shown below.
 
-<img src="resources/formation-experiment-2.png" align="center" width="50%"/>
+<img src="resources/formation-experiment-B.png" align="center" width="50%"/>
 
 #### The video of the experiment process is shown below.
 
-<img src="resources/experiment2.gif" align="center" width="100%"/>
+<img src="resources/experiment-B.gif" align="center" width="100%"/>
 
 <!--还没放上去，先不放
 More longer videos can be found on [![](https://img.shields.io/badge/YouTube-SICity-FF0000?style=logo=youtube&logoColor=white)](https://github.com/cmc623/Formation-control-experiments).
