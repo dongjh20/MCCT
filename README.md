@@ -32,10 +32,10 @@
 
 # MTwinCity
 
-In this project, we present several experiments done with the Intelligent and Connected Vehicles Lab's Mixed Digital Twin City ( THICV MTwinCity) to demonstrate its capabilities and the effectiveness of the Mixed Digital Twin concept (mixedDT).
+In this project, we present several experiments done with the Mixed Cloud Control Testbed (MCCT) to demonstrate its capabilities and the effectiveness of the Mixed Digital Twin concept (mixedDT).
 
 ## The notion of mixedDT
-The MTwinCity is an implementation example of the mixedDT, which is a further extension of the classic Digital Twin (DT) concept. 
+The MCCT is an implementation example of the mixedDT, which is a further extension of the classic Digital Twin (DT) concept. 
 
 The schematic diagram of the classic DT is as follows.
 
@@ -45,17 +45,17 @@ The schematic diagram of the proposed mixedDT is as follows.
 
 <img src="resources/mdt-architecture.jpg" align="center" width="50%"/>
 
-## The architecture of the SICity
+## The architecture of the MCCT
 
-The architecture of the MTwinCity is as follows, which has a good correspondence with the mixedDT architecture.
+The architecture of the MCCT is as follows, which has a good correspondence with the mixedDT architecture.
 
 <img src="resources/SICity-architecture.png" align="center" width="50%"/>
 
-An corresponding overview of the MTwinCity is as follows.
+An corresponding overview of the MCCT is as follows.
 
 <img src="resources/SICity-overview.png" align="center" width="50%"/>
 
-The detailed physical architecture of the MTwinCity is as follows, which is not presented in paper due to space limitations.
+The detailed physical architecture of the MCCT is as follows, which is not presented in paper due to space limitations.
 
 <img src="resources/SICity-framework.png" align="center" width="50%"/>
 
@@ -71,7 +71,7 @@ The detailed physical architecture of the MTwinCity is as follows, which is not 
 
 <img src="resources/experiment1.gif" align="center" width="100%"/>
 
-### Mixing physical miniature vehicles, virtual vehicles and the ego vehicle of a driving simulator
+### Mixing physical miniature vehicles, virtual vehicles and a human-driven vehicle via a driving simulator
 
 #### The formation of the platoon for experiment 2 is shown below.
 
@@ -100,9 +100,9 @@ The video can be found on [![](https://img.shields.io/badge/GitHub-DeeP_LCC-gree
 ## Contacts
 Follow my updates on [Researchgate](https://www.researchgate.net/profile/Jianghong-Dong).
 
-## Citing MTwinCity
+## Citing MCCT
 
-If you refer to MTwinCity in your research, please cite the [paper](https://www.researchgate.net/publication/359072029_Multi-vehicle_experiment_platform_A_Digital_Twin_Realization_Method). In BibTeX format:
+If you refer to MCCT in your research, please cite the [paper](https://www.researchgate.net/publication/359072029_Multi-vehicle_experiment_platform_A_Digital_Twin_Realization_Method). In BibTeX format:
 
 ```bibtex
 @INPROCEEDINGS{yang2021multi, 
