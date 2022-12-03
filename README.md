@@ -30,7 +30,7 @@
 ![](https://img.shields.io/badge/SCANeR_Studio-FA7343?style=for-the-badge)
 
 
-# MTwinCity
+# Mixed Cloud Control Testbed (MCCT)
 
 In this project, we present several experiments done with the Mixed Cloud Control Testbed (MCCT) to demonstrate its capabilities and the effectiveness of the Mixed Digital Twin concept (mixedDT).
 
