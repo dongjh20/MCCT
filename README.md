@@ -39,11 +39,11 @@ The MTwinCity is an implementation example of the mixedDT, which is a further ex
 
 The schematic diagram of the classic DT is as follows.
 
-<img src="resources/dt-architecture.png" align="center" width="50%"/>
+<img src="resources/dt-architecture.jpg" align="center" width="50%"/>
 
 The schematic diagram of the proposed mixedDT is as follows.
 
-<img src="resources/mdt-architecture.png" align="center" width="50%"/>
+<img src="resources/mdt-architecture.jpg" align="center" width="50%"/>
 
 ## The architecture of the SICity
 
