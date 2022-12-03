@@ -65,7 +65,7 @@ The detailed physical architecture of the MCCT is as follows, which is not prese
 
 #### The formation of the platoon for experiment A is shown below.
 
-<img src="resources/formation-experiment-A.png" align="center" width="50%"/>
+<img src="resources/formation-experiment-A.jpg" align="center" width="50%"/>
 
 #### The video of the experiment process is shown below.
 
@@ -75,7 +75,7 @@ The detailed physical architecture of the MCCT is as follows, which is not prese
 
 #### The formation of the platoon for experiment B is shown below.
 
-<img src="resources/formation-experiment-B.png" align="center" width="50%"/>
+<img src="resources/formation-experiment-B.jpg" align="center" width="50%"/>
 
 #### The video of the experiment process is shown below.
 
