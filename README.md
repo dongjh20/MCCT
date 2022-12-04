@@ -73,13 +73,13 @@ The detailed physical architecture of the MCCT is as follows, which is not prese
 
 ### Mixing physical miniature vehicles, virtual vehicles and a human-driven vehicle via a driving simulator
 
-#### The formation of the platoon for experiment B is shown below.
+#### The formation of the platoon for experiment B is shown below. SCANeR Studio is the supporting software of the driving simulator. 
 
 <img src="resources/formation-experiment-B.jpg" align="center" width="50%"/>
 
 #### The video of the experiment process is shown below.
 
-<img src="resources/experiment-B-GIF.gif" align="center" width="100%"/>
+<img src="resources/experiment-B.gif" align="center" width="100%"/>
 
 <!--还没放上去，先不放
 More longer videos can be found on [![](https://img.shields.io/badge/YouTube-SICity-FF0000?style=logo=youtube&logoColor=white)](https://github.com/cmc623/Formation-control-experiments).
