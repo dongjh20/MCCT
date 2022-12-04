@@ -69,7 +69,7 @@ The detailed physical architecture of the MCCT is as follows, which is not prese
 
 #### The video of the experiment process is shown below.
 
-<img src="resources/experiment-A-GIF.gif" align="center" width="100%"/>
+<img src="resources/experiment-A.gif" align="center" width="100%"/>
 
 ### Mixing physical miniature vehicles, virtual vehicles and a human-driven vehicle via a driving simulator
 
