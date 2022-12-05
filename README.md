@@ -32,12 +32,12 @@
 
 # Mixed Cloud Control Testbed (MCCT)
 
-In this project, we present several experiments done with the Mixed Cloud Control Testbed (MCCT) to demonstrate its capabilities and the effectiveness of the Mixed Digital Twin concept (mixedDT).
+In this project, we present demo videos for our miniature experimental platform, Mixed Cloud Control Testbed (MCCT), developed based on a new notion of Mixed Digital Twin (mixedDT). 
 
 ## The notion of mixedDT
-The MCCT is an implementation example of the mixedDT, which is a further extension of the classic Digital Twin (DT) concept. 
+Combining Mixed Reality with Digital Twin, mixedDT integrates the virtual and physical spaces into a mixed one, where physical entities coexist and interact with virtual entities via their digital counterparts. 
 
-The schematic diagram of the classic DT is as follows.
+The schematic diagram of the classical Digital Twin is as follows.
 
 <img src="resources/dt-architecture.jpg" align="center" width="50%"/>
 
@@ -47,7 +47,7 @@ The schematic diagram of the proposed mixedDT is as follows.
 
 ## The architecture of the MCCT
 
-The architecture of the MCCT is as follows, which has a good correspondence with the mixedDT architecture.
+Under the framework of mixedDT, MCCT contains three major experimental platforms in the physical, virtual and mixed spaces respectively, and provides a unified access for various human-machine interfaces and external devices such as driving simulators.
 
 <img src="resources/MCCT-architecture.jpg" align="center" width="50%"/>
 
@@ -59,25 +59,26 @@ The detailed physical architecture of the MCCT is as follows, which is not prese
 
 <img src="resources/MCCT-framework.png" align="center" width="50%"/>
 
-## Platoon experiment with mixed types of vehicles
+## Demo videos
+Cross-platform experiments are carried out on vehicle platooning, which is composed of different types of vehicles from different platforms in MCCT.
 
-### Mixing physical miniature vehicles and virtual vehicles
+**Experiment A:** Mixing physical miniature vehicles and virtual vehicles
 
-#### The formation of the platoon for experiment A is shown below.
+The formation of the platoon for experiment A is shown below.
 
 <img src="resources/formation-experiment-A.jpg" align="center" width="50%"/>
 
-#### The video of the experiment process is shown below.
+The video of the experiment process is shown below.
 
 <img src="resources/experiment-A-V2.gif" align="center" width="100%"/>
 
-### Mixing physical miniature vehicles, virtual vehicles and a human-driven vehicle via a driving simulator
+**Experiment B:** Mixing physical miniature vehicles, virtual vehicles and a human-driven vehicle via a driving simulator
 
-#### The formation of the platoon for experiment B is shown below. SCANeR Studio is the supporting software of the driving simulator. 
+The formation of the platoon for experiment B is shown below. SCANeR Studio is the supporting software of the driving simulator. 
 
 <img src="resources/formation-experiment-B.jpg" align="center" width="50%"/>
 
-#### The video of the experiment process is shown below.
+The video of the experiment process is shown below.
 
 <img src="resources/experiment-B.gif" align="center" width="100%"/>
 
@@ -85,21 +86,19 @@ The detailed physical architecture of the MCCT is as follows, which is not prese
 More longer videos can be found on [![](https://img.shields.io/badge/YouTube-SICity-FF0000?style=logo=youtube&logoColor=white)](https://github.com/cmc623/Formation-control-experiments).
 -->
 
-## Multi-vehicle coordinated formation control
+## More experiments on MCCT
+- Multi-vehicle coordinated formation control. The video can be found on [![](https://img.shields.io/badge/GitHub-Formation_control-green?style=logo=github&logoColor=white)](https://github.com/cmc623/Formation-control-experiments).
+- Data-Enabled Predictive Leading Cruise Control (DeeP-LCC). The video can be found on [![](https://img.shields.io/badge/GitHub-DeeP_LCC-green?style=logo=github&logoColor=white)](https://github.com/soc-ucsd/DeeP-LCC).
 
-The video can be found on [![](https://img.shields.io/badge/GitHub-Formation_control-green?style=logo=github&logoColor=white)](https://github.com/cmc623/Formation-control-experiments).
-
-## Data-Enabled Predictive Leading Cruise Control (DeeP-LCC)
-
-The video can be found on [![](https://img.shields.io/badge/GitHub-DeeP_LCC-green?style=logo=github&logoColor=white)](https://github.com/soc-ucsd/DeeP-LCC).
-
-## Publications
+## Related Publications
 1. Yang C, Dong J, Xu Q, et al. Multi-vehicle experiment platform: A Digital Twin Realization Method[C]//2022 IEEE/SICE International Symposium on System Integration (SII). IEEE, 2022: 705-711. [paper link](https://www.researchgate.net/publication/359072029_Multi-vehicle_experiment_platform_A_Digital_Twin_Realization_Method)
 2. Cai M, Xu Q, Yang C, et al. Experimental Validation of Multi-lane Formation Control for Connected and Automated Vehicles in Multiple Scenarios[J]. arXiv preprint arXiv:2112.00312, 2021. [paper link](https://www.researchgate.net/publication/356711150_Experimental_Validation_of_Multi-lane_Formation_Control_for_Connected_and_Automated_Vehicles_in_Multiple_Scenarios)
 3. Wang J, Zheng Y, Dong J, et al. Experimental Validation of DeeP-LCC for Dissipating Stop-and-Go Waves in Mixed Traffic[J]. arXiv preprint arXiv:2204.03747, 2022. [paper link](https://arxiv.org/abs/2204.03747)
-## Contacts
-Follow my updates on [Researchgate](https://www.researchgate.net/profile/Jianghong-Dong).
 
+## Contacts
+For more details, please contact [Jianghong Dong](https://www.researchgate.net/profile/Jianghong-Dong) and [Jiawei Wang](https://wangjw18.github.io/).
+
+<!--
 ## Citing MCCT
 
 If you refer to MCCT in your research, please cite the [paper](https://www.researchgate.net/publication/359072029_Multi-vehicle_experiment_platform_A_Digital_Twin_Realization_Method). In BibTeX format:
@@ -115,4 +114,4 @@ number={},
 pages={705-711},  
 doi={10.1109/SII52469.2022.9708890}}
 ```
-
+-->
