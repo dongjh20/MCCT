@@ -57,7 +57,7 @@ An corresponding overview of the MCCT is as follows.
 
 The detailed physical architecture of the MCCT is as follows, which is not presented in paper due to space limitations.
 
-<img src="resources/MCCT-framework.png" align="center" width="100%"/>
+<img src="resources/MCCT-framework.png" align="center" width="50%"/>
 
 ## Demo videos
 Cross-platform experiments are carried out on vehicle platooning, which is composed of different types of vehicles from different platforms in MCCT.
