@@ -105,6 +105,9 @@ If you refer to MCCT in your research, please cite the [paper](https://arxiv.org
   author={Dong, Jianghong and Xu, Qing and Wang, Jiawei and Yang, Chunying and Cai, Mengchi and Chen, Chaoyi and Liu, Yu and Wang, Jianqiang and Li, Keqiang},
   journal={IEEE Transactions on Intelligent Vehicles},
   year={2023},
+  volume={8},
+  number={4},
+  pages={2723-2736},
   publisher={IEEE}
 }
 ```
