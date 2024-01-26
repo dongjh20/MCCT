@@ -30,7 +30,7 @@
 ![](https://img.shields.io/badge/SCANeR_Studio-FA7343?style=for-the-badge)
 
 
-# Mixed Cloud Control Testbed (MCCT)
+# ![Mixed Cloud Control Testbed (MCCT)](https://dongjh20.github.io/MCCT)
 
 In this project, we present demo videos for our miniature experimental platform, Mixed Cloud Control Testbed (MCCT), developed based on a new notion of Mixed Digital Twin (mixedDT). 
 
