@@ -113,7 +113,7 @@ If you refer to MCCT in your research, please cite the [paper](https://arxiv.org
 ```
 
 ## Contacts
-For more details, please contact [Jianghong Dong](https://scholar.google.com/citations?user=ncDpC9gAAAAJ&hl=en) <a href="https://scholar.google.com/citations?user=ncDpC9gAAAAJ&hl=en" target="_blank">Jianghong Dong</a> and [Jiawei Wang](https://wjiawei.com).
+For more details, please contact <a href="https://scholar.google.com/citations?user=ncDpC9gAAAAJ&hl=en" target="_blank">Jianghong Dong</a> and <a href="https://wjiawei.com" target="_blank">Jiawei Wang</a>.
 
 ## Stargazers over time
 [![Stargazers over time](https://starchart.cc/dongjh20/MCCT.svg)](https://starchart.cc/dongjh20/MCCT)
