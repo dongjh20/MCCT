@@ -99,7 +99,7 @@ More longer videos can be found on [![](https://img.shields.io/badge/YouTube-SIC
 4. Dong J, Xu Q, Wang J, et al. Mixed cloud control testbed: Validating vehicle-road-cloud integration via mixed digital twin[J]. IEEE Transactions on Intelligent Vehicles, 2023. <a href="https://arxiv.org/abs/2212.02007" target="_blank">[paper link]</a>
 5. Wang J, Zheng Y, Dong J, et al. Implementation and experimental validation of data-driven predictive control for dissipating stop-and-go waves in mixed traffic[J]. IEEE Internet of Things Journal, 2023. <a href="https://ieeexplore.ieee.org/document/10210648" target="_blank">[paper link]</a>
 ## Citing MCCT
-If you refer to MCCT in your research, please cite the [paper](https://arxiv.org/abs/2212.02007). In BibTeX format:
+If you refer to MCCT in your research, please cite this <a href="https://arxiv.org/abs/2212.02007" target="_blank">[paper]</a>. In BibTeX format:
 
 ```bibtex
 @article{dong2023mixed,
