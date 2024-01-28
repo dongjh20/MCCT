@@ -93,11 +93,11 @@ More longer videos can be found on [![](https://img.shields.io/badge/YouTube-SIC
 - Data-Enabled Predictive Leading Cruise Control (DeeP-LCC). [![](https://img.shields.io/badge/GitHub-DeeP_LCC-green?style=logo=github&logoColor=white)](https://github.com/soc-ucsd/DeeP-LCC)
 
 ## Related publications
-1. Yang C, Dong J, Xu Q, et al. Multi-vehicle experiment platform: A Digital Twin Realization Method[C]//2022 IEEE/SICE International Symposium on System Integration (SII). IEEE, 2022: 705-711. [paper link](https://www.researchgate.net/publication/359072029_Multi-vehicle_experiment_platform_A_Digital_Twin_Realization_Method)
-2. Cai M, Xu Q, Yang C, et al. Experimental Validation of Multi-lane Formation Control for Connected and Automated Vehicles in Multiple Scenarios[J]. arXiv preprint arXiv:2112.00312, 2021. [paper link](https://www.researchgate.net/publication/356711150_Experimental_Validation_of_Multi-lane_Formation_Control_for_Connected_and_Automated_Vehicles_in_Multiple_Scenarios)
-3. Wang J, Zheng Y, Dong J, et al. Experimental Validation of DeeP-LCC for Dissipating Stop-and-Go Waves in Mixed Traffic[J]. arXiv preprint arXiv:2204.03747, 2022. [paper link](https://arxiv.org/abs/2204.03747)
-4. Dong J, Xu Q, Wang J, et al. Mixed cloud control testbed: Validating vehicle-road-cloud integration via mixed digital twin[J]. IEEE Transactions on Intelligent Vehicles, 2023. [paper link](https://arxiv.org/abs/2212.02007)
-5. Wang J, Zheng Y, Dong J, et al. Implementation and experimental validation of data-driven predictive control for dissipating stop-and-go waves in mixed traffic[J]. IEEE Internet of Things Journal, 2023. [paper link](https://arxiv.org/abs/2204.03747)
+1. Yang C, Dong J, Xu Q, et al. Multi-vehicle experiment platform: A Digital Twin Realization Method[C]//2022 IEEE/SICE International Symposium on System Integration (SII). IEEE, 2022: 705-711. <a href="https://www.researchgate.net/publication/359072029_Multi-vehicle_experiment_platform_A_Digital_Twin_Realization_Method" target="_blank">[paper link]</a>
+2. Cai M, Xu Q, Yang C, et al. Experimental Validation of Multi-lane Formation Control for Connected and Automated Vehicles in Multiple Scenarios[J]. arXiv preprint arXiv:2112.00312, 2021. <a href="https://www.researchgate.net/publication/356711150_Experimental_Validation_of_Multi-lane_Formation_Control_for_Connected_and_Automated_Vehicles_in_Multiple_Scenarios" target="_blank">[paper link]</a>
+3. Wang J, Zheng Y, Dong J, et al. Experimental Validation of DeeP-LCC for Dissipating Stop-and-Go Waves in Mixed Traffic[J]. arXiv preprint arXiv:2204.03747, 2022. <a href="https://arxiv.org/abs/2204.03747" target="_blank">[paper link]</a>
+4. Dong J, Xu Q, Wang J, et al. Mixed cloud control testbed: Validating vehicle-road-cloud integration via mixed digital twin[J]. IEEE Transactions on Intelligent Vehicles, 2023. <a href="https://arxiv.org/abs/2212.02007" target="_blank">[paper link]</a>
+5. Wang J, Zheng Y, Dong J, et al. Implementation and experimental validation of data-driven predictive control for dissipating stop-and-go waves in mixed traffic[J]. IEEE Internet of Things Journal, 2023. <a href="https://ieeexplore.ieee.org/document/10210648" target="_blank">[paper link]</a>
 ## Citing MCCT
 If you refer to MCCT in your research, please cite the [paper](https://arxiv.org/abs/2212.02007). In BibTeX format:
 
