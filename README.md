@@ -125,7 +125,9 @@ For more details, please contact <a href="https://scholar.google.com/citations?u
 
 <html>
  <body>
+   <div class="image-container has-text-centered" style="max-width: 60%; margin: auto;">
    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=YeWRQzxym6_n2qFebx8xDXl6U49xxfd2f7a406zuis8&cl=ffffff&w=a"></script>
+   </div>
       <!-- Default Statcounter code for MCCT
     https://dongjh20.github.io/MCCT/ -->
    <div style="text-align: center;">
