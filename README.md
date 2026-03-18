@@ -3,7 +3,7 @@
 
 ## Web View: https://dongjh20.github.io/MCCT
 
-## [Access Full Paper](https://arxiv.org/abs/2212.02007)
+# [Access Full Paper](https://arxiv.org/abs/2212.02007)
 
 <!--课题组网站链接-->
 [![tsinghua-svm-thicv](https://img.shields.io/badge/Tsinghua_University-THICV-brightgreen)](https://www.labxing.com/thicv)
