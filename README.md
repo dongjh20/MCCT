@@ -5,6 +5,9 @@
 
 # [Access Full Paper](https://arxiv.org/abs/2212.02007)
 
+# Access Full Paper
+[![arXiv](https://img.shields.io/badge/arXiv-2212.02007-b31b1b.svg?style=flat-square)](https://www.researchgate.net/publication/366026509_Mixed_Cloud_Control_Testbed_Validating_Vehicle-Road-Cloud_Integration_via_Mixed_Digital_Twin)
+[![IEEE](https://img.shields.io/badge/IEEE-Official_Webpage-00629B.svg?style=flat-square)](https://ieeexplore.ieee.org/document/10040234)
 <!--课题组网站链接-->
 [![tsinghua-svm-thicv](https://img.shields.io/badge/Tsinghua_University-THICV-brightgreen)](https://www.labxing.com/thicv)
 
