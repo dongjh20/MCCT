@@ -13,7 +13,7 @@
 
 [📄 **arXiv Version**](https://arxiv.org/abs/2212.02007) &nbsp; | &nbsp; [🔬 **ResearchGate**](https://www.researchgate.net/publication/366026509_Mixed_Cloud_Control_Testbed_Validating_Vehicle-Road-Cloud_Integration_via_Mixed_Digital_Twin) &nbsp; | &nbsp; [🌐 **IEEE Official Webpage**](https://ieeexplore.ieee.org/document/10040234)
 
-## Related link
+## Related Link
 <!--课题组网站链接-->
 [![tsinghua-svm-thicv](https://img.shields.io/badge/Tsinghua_University-THICV-brightgreen)](https://www.labxing.com/thicv)
 
